@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "coupon": "GYM15",
+    "discount": "15%",
+    "description": "Upgrade your club’s system and save 15% using GYM15."
+  },
+  {
+    "id": "2",
+    "coupon": "WELCOME10",
+    "discount": "10%",
+    "description": "Welcome bonus! Enjoy 10% off on your first booking."
+  },
+  {
+    "id": "3",
+    "coupon": "SUMMER25",
+    "discount": "25%",
+    "description": "Summer Sale! Use code SUMMER25 for a 25% discount."
+  }
+]

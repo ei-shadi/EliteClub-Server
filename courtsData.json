@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co/GQb307VF/Tennis-Court.jpg",
+    "courtType": "Tennis",
+    "slotTimes": ["6:00 AM - 7:00 AM", "7:00 AM - 8:00 AM", "8:00 AM - 9:00 AM"],
+    "price": 800
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/dwSDn386/Badmintion-Court.jpg",
+    "courtType": "Badminton",
+    "slotTimes": ["9:00 AM - 10:00 AM", "10:00 AM - 11:00 AM", "11:00 AM - 12:00 PM"],
+    "price": 500
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/7t9vgwZt/Squash-Court.jpg",
+    "courtType": "Squash",
+    "slotTimes": ["4:00 PM - 5:00 PM", "5:00 PM - 6:00 PM", "6:00 PM - 7:00 PM"],
+    "price": 600
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co/Psfg4GbR/Football-Court.jpg",
+    "courtType": "Football (5-a-side)",
+    "slotTimes": ["7:00 PM - 8:00 PM", "8:00 PM - 9:00 PM"],
+    "price": 1200
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co/GvGYmCNP/Tennis-Court-2.jpg",
+    "courtType": "Tennis",
+    "slotTimes": ["3:00 PM - 4:00 PM", "4:00 PM - 5:00 PM"],
+    "price": 850
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co/JVRmWsM/Basketball-Half-Court.jpg",
+    "courtType": "Basketball Half",
+    "slotTimes": ["6:00 PM - 7:00 PM", "7:00 PM - 8:00 PM"],
+    "price": 700
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co/HRsRt9y/Volleyball-Court.jpg",
+    "courtType": "Volleyball",
+    "slotTimes": ["8:00 AM - 9:00 AM", "9:00 AM - 10:00 AM"],
+    "price": 550
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co/KCgC3bX/Squash-Court-2.jpg",
+    "courtType": "Squash",
+    "slotTimes": ["10:00 AM - 11:00 AM", "11:00 AM - 12:00 PM"],
+    "price": 650
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co/JFRkgHgh/Badminton-Court-2.jpg",
+    "courtType": "Badminton",
+    "slotTimes": ["2:00 PM - 3:00 PM", "3:00 PM - 4:00 PM"],
+    "price": 550
+  },
+  {
+    "id": 10,
+    "image": "https://i.ibb.co/jdQX7mF/Basketball-Full-Court.jpg",
+    "courtType": "Basketball Full",
+    "slotTimes": ["5:00 PM - 6:00 PM", "6:00 PM - 7:00 PM"],
+    "price": 1000
+  },
+  {
+    "id": 11,
+    "image": "https://i.ibb.co/0pVkCYvw/Tennis-Court-3.jpg",
+    "courtType": "Tennis",
+    "slotTimes": ["7:00 AM - 8:00 AM", "8:00 AM - 9:00 AM"],
+    "price": 900
+  },
+  {
+    "id": 12,
+    "image": "https://i.ibb.co/bgwKCDn8/Basketball.jpg",
+    "courtType": "Basketball Full",
+    "slotTimes": ["9:00 AM - 10:00 AM", "10:00 AM - 11:00 AM"],
+    "price": 1000
+  },
+  {
+    "id": 13,
+    "image": "https://i.ibb.co/JWGKWfBz/Cricket-Court.jpg",
+    "courtType": "Cricket Practice Net",
+    "slotTimes": ["11:00 AM - 12:00 PM", "12:00 PM - 1:00 PM"],
+    "price": 450
+  },
+  {
+    "id": 14,
+    "image": "https://i.ibb.co/7dHmqRgD/Table-Tennis.jpg",
+    "courtType": "Table Tennis",
+    "slotTimes": ["1:00 PM - 2:00 PM", "2:00 PM - 3:00 PM"],
+    "price": 300
+  },
+  {
+    "id": 15,
+    "image": "https://i.ibb.co/8LSw2hwz/Hockey-Turf.jpg",
+    "courtType": "Hockey Turf",
+    "slotTimes": ["4:00 PM - 5:00 PM", "5:00 PM - 6:00 PM"],
+    "price": 1300
+  },
+  {
+    "id": 16,
+    "image": "https://i.ibb.co/DPjfVV4s/istockphoto-1199737476-1024x1024.jpg",
+    "courtType": "Skating Rink",
+    "slotTimes": ["6:00 PM - 7:00 PM", "7:00 PM - 8:00 PM"],
+    "price": 600
+  },
+  {
+    "id": 17,
+    "image": "https://i.ibb.co/XrCX1Zvy/Cricket-Court-2.jpg",
+    "courtType": "Tennis",
+    "slotTimes": ["5:00 AM - 6:00 AM", "6:00 AM - 7:00 AM"],
+    "price": 750
+  },
+  {
+    "id": 18,
+    "image": "https://i.ibb.co/d4d5214d/Futsal.jpg",
+    "courtType": "Futsal",
+    "slotTimes": ["9:00 PM - 10:00 PM", "10:00 PM - 11:00 PM"],
+    "price": 1100
+  },
+  {
+    "id": 19,
+    "image": "https://i.ibb.co/rK95kYd5/Archery-Range.jpg",
+    "courtType": "Archery Range",
+    "slotTimes": ["3:00 PM - 4:00 PM", "4:00 PM - 5:00 PM"],
+    "price": 500
+  },
+  {
+    "id": 20,
+    "image": "https://i.ibb.co/r2syyrgC/Gymnastics-Floor.jpg",
+    "courtType": "Gymnastics Floor",
+    "slotTimes": ["12:00 PM - 1:00 PM", "1:00 PM - 2:00 PM"],
+    "price": 900
+  }
+]
